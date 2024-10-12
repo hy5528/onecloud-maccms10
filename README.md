@@ -6,7 +6,10 @@
 
 wget https://mirror.ghproxy.com/https://github.com/hy5528/onecloud-maccms10/blob/main/cms.sh && sudo bash cms.sh
 
+2、影视分类还原：
 
 
-2、所有资料均来自网络，自用，请不要商业应用。
+
+
+3、所有资料均来自网络，自用，请不要商业应用。
 
