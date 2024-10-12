@@ -8,5 +8,5 @@ wget https://gh.con.sh/https://github.com/hy5528/onecloud-maccms10/blob/main/cms
 
 
 
-2、所有资料均来源网络，自用，请不要商业应用。
+2、所有资料均来自网络，自用，请不要商业应用。
 
