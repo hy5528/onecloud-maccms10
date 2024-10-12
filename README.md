@@ -3,6 +3,7 @@
 1、一键安装运行环境及苹果cms，安装后网上有大把使用教程，默认保用80端口。前台：http://IP/
 
 一键安装命令
+
 wget https://gh.con.sh/https://github.com/hy5528/onecloud-maccms10/blob/main/cms.sh && sudo bash cms.sh
 
 
