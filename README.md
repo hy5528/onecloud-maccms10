@@ -4,7 +4,7 @@
 
 一键安装命令
 
-wget https://gh.con.sh/https://github.com/hy5528/onecloud-maccms10/blob/main/cms.sh && sudo bash cms.sh
+wget https://mirror.ghproxy.com/https://github.com/hy5528/onecloud-maccms10/blob/main/cms.sh && sudo bash cms.sh
 
 
 
