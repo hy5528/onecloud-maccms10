@@ -7,7 +7,8 @@
 wget https://mirror.ghproxy.com/https://github.com/hy5528/onecloud-maccms10/blob/main/cms.sh && sudo bash cms.sh
 
 二、影视分类还原：
-1、上传分类文件--application--data--backup--database。
+
+1、上传影视分类备份文件--application--data--backup--database。
 2、在管理后台的数据管理中还原。
 
 三、所有资料均来自网络，自用，请不要商业应用。
