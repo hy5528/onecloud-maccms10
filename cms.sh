@@ -4,6 +4,7 @@ mkdir -p /www
 mkdir -p /www/mysql
 mkdir -p /www/cms && cd /www/cms
 wget https://mirror.ghproxy.com/https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
+chmod -R 777 /www/cms
 chmod  777 maccms10.zip
 unzip maccms10.zip
 chmod -R 777 /www/cms
